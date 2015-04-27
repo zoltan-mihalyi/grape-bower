@@ -1,0 +1,15 @@
+{
+  "name": "grape-engine",
+  "version": "1.0.0",
+  "authors": [
+    "zoltan-mihalyi <zoltan.mihalyi.90@gmail.com>"
+  ],
+  "description": "Grape game engine",
+  "main": "grape.min.js",
+  "keywords": [
+    "grape",
+    "game",
+    "engine"
+  ],
+  "license": "MIT"
+}
